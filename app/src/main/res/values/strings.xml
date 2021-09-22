@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Droid Cafe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_dessert_recipe_fragment">Hello Dessert Recipe Fragment</string>
+    <string name="hello_pastries_recipe_fragment">Hello Pastries Recipe Fragment</string>
+    <string name="hello_stores_fragment">Hello Stores Fragment</string>
+    <string name="tab_label_1">Desserts</string>
+    <string name="tab_label_2">Pastries</string>
+    <string name="tab_label_3">Stores</string>
+    <string name="desserts_recipes">Desserts Recipes</string>
+    <string name="browse_recipes">Browse Recipes</string>
+    <string name="recipe_title">Recipe Title</string>
+    <string name="prep_cook_time_2hrs"><![CDATA[Prep & Cook Time: 2hrs]]></string>
+    <string name="recipe_short_description">Recipe short description</string>
+    <string name="how_to_prepare_donuts">How to prepare Donuts</string>
+    <string name="pastries_recipe">Pastries Recipe</string>
+    <string name="browse_pastry_recipes">Browse Pastry Recipes</string>
+    <string name="pastry_recipe_title">Pastry Recipe Title</string>
+    <string name="food">Food</string>
+    <string name="drinks">Drinks</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="about_us">About Us</string>
+
+    <array name="desserts_images">
+        <item>@drawable/donut1</item>
+        <item>@drawable/donut2</item>
+        <item>@drawable/donut3</item>
+        <item>@drawable/donut4</item>
+        <item>@drawable/froyo1</item>
+        <item>@drawable/froyo2</item>
+        <item>@drawable/froyo3</item>
+        <item>@drawable/ice</item>
+        <item>@drawable/ice2</item>
+        <item>@drawable/ice4</item>
+    </array>
+
+    <string-array name="dessert_title">
+        <item>Donut</item>
+        <item>Donut</item>
+        <item>Donut</item>
+        <item>Donut</item>
+        <item>Froyo</item>
+        <item>Froyo</item>
+        <item>Froyo</item>
+        <item>Ice cream</item>
+        <item>Ice cream</item>
+        <item>Ice cream</item>
+    </string-array>
+
+    <string-array name="dessert_description">
+        <item>Donuts are glazed and sprinkled with candy</item>
+        <item>Donuts are glazed and sprinkled with candy</item>
+        <item>Donuts are glazed and sprinkled with candy</item>
+        <item>Donuts are glazed and sprinkled with candy</item>
+        <item>Froyo is a premium self-serve frozen yogurt</item>
+        <item>Froyo is a premium self-serve frozen yogurt</item>
+        <item>Froyo is a premium self-serve frozen yogurt</item>
+        <item>Ice creams have your desired flavours and fillings</item>
+        <item>Ice creams have your desired flavours and fillings</item>
+        <item>Ice creams have your desired flavours and fillings</item>
+    </string-array>
+
+    //pastry arrays
+    <array name="pastry_images">
+        <item>@drawable/bread</item>
+        <item>@drawable/cake</item>
+        <item>@drawable/cookie</item>
+        <item>@drawable/muffin</item>
+        <item>@drawable/sliderbuns</item>
+    </array>
+
+    <string-array name="pastry_title">
+        <item>Bread</item>
+        <item>Cake</item>
+        <item>Cookie</item>
+        <item>Muffin</item>
+        <item>Buns</item>
+    </string-array>
+
+    <string-array name="pastry_description">
+        <item>The bread is deal thy, crusty hot, unleavened baked bread</item>
+        <item>The cake comes in any flavour you would like</item>
+        <item>Cookies are filled with chocolate chips and a fill of nuts is you would like.</item>
+        <item>The muffin has a spongy texture and a sweet sugary taste</item>
+        <item>The buns are hot, soft and tasty and come with butter</item>
+    </string-array>
+
+</resources>
